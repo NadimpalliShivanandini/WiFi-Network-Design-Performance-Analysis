@@ -343,11 +343,15 @@ Detailed technical documentation is available in the `documentation` directory.
 
 ### VLAN and Trunk Verification
 
-![VLAN and Trunk Verification](screenshots/vlan-trunk.png)
+![VLAN and Trunk Verification](screenshots/vlan-part1.png)
+
+![VLAN and Trunk Verification](screenshots/vlan-part2.png)
 
 ### Guest Network Isolation
 
-![Guest Network Isolation](screenshots/guest-isolation.png)
+![Guest Network Isolation](screenshots/guest-part1.png)
+
+![Guest Network Isolation](screenshots/guest-part2.png)
 
 ## How to Open the Project
 
